@@ -1,0 +1,8 @@
+Details
+---
+000 - 014 => Introduction to Python
+015 - 026 => NumPy
+027 - 034 => Pandas
+035 - 037 => Matplotlib
+038 - 041 => Case study
+042 - 044 => Data visualisation practice 
