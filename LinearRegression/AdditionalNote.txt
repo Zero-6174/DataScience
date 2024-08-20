@@ -1,0 +1,12 @@
+SLR 
+
+Theory on assumption of SLR:
+
+-> https://reliawiki.org/index.php/Simple_Linear_Regression_Analysis
+
+-> https://people.duke.edu/~rnau/testing.htm
+
+
+Link of Session coordinator:
+
+-> https://drive.google.com/drive/folders/1rvJ_7iZPFNp0q1_JpwOYy4mlhwlJALZ9?usp=sharing

@@ -1,0 +1,2 @@
+Inferential Statistics 
+ - Introduction to Random Variable, Expected Value, Binomial Distribution, Cumulative Probability, Z-value, Sampling Distributions & Central Limit Theorem, Mean Estimation Using CLT.
